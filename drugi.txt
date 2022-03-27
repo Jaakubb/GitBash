@@ -1,2 +1,5 @@
 To jest drugi plik
 Zmiana w drugim pliku na branchu master
+
+
+Piąta linijka zmianiona przez zepsuty
