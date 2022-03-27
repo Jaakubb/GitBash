@@ -3,3 +3,5 @@ To jest pierwszy plik
 Zmiana
 
 Zmiana w branchu
+
+Zmiana kolejna
